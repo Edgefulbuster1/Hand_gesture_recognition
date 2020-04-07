@@ -1,0 +1,4 @@
+All of the given is a project on hand gesture recognition.
+
+Data collection is done via video processing, i.e. a video of handgesture was taken and later individual images were captured from it. 
+later it was processed to mask and final data was extracted in from of 0's and 1's in a csv file.
